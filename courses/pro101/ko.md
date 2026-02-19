@@ -280,7 +280,7 @@ Bitcoin은 확장성 및 개인정보 보호와 관련된 문제에 직면해 �
 탈중앙화와 보안을 보장하려면 **[Full node](https://planb.academy/resources/glossary/full-node)**를 실행하는 것이 필수적이지만, **간편 결제 검증(SPV) 노드를 사용하면 일부 보안을 희생하는 대신 더 가볍게 참여할 수 있습니다.
 
 
-Bitcoin 개발은 성능과 보안을 개선하기 위해 발전해왔습니다. 주요 업그레이드에는 트랜잭션 가변성을 해결하고 유효 블록 크기를 증가시키는 **분리된 증인([SegWit](https://planb.academy/resources/glossary/segwit))**과 개인 정보 보호를 개선하고 **MAST(머클화된 추상 구문 트리)**를 사용해 더 복잡한 계약을 허용하는 **[Taproot](https://planb.academy/resources/glossary/taproot)**이 있습니다.
+Bitcoin 개발은 성능과 보안을 개선하기 위해 발전해왔습니다. 주요 업그레이드에는 트랜잭션 가변성을 해결하고 유효 블록 크기를 증가시키는 **분리된 증인([SegWit](https://planb.academy/resources/glossary/segwit))**과 개인 정보 보호를 개선하고 **MAST(여러 지출 조건을 그룹화한 머클 트리로, 지출을 위해 그 중 하나만 공개하면 됨.)**를 사용해 더 복잡한 계약을 허용하는 **[Taproot](https://planb.academy/resources/glossary/taproot)**이 있습니다.
 
 
 **정의:**
