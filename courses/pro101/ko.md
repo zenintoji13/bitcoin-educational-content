@@ -210,7 +210,7 @@ Bitcoin은 **Cypherpunk 운동**과 **오스트리아 경제학**에 기반을 �
 이 자료에 참여해 주셔서 감사합니다!
 
 
-## Bitcoin
+## How Bitcoin
 
 
 <chapterId>d800970a-0d8e-5557-810a-7aef845d4a34</chapterId>
